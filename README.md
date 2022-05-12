@@ -18,3 +18,7 @@ Now, for testing the validation of the game I use <b> Postman </b> program.
 First we'll add the port: <b> http://localhost:3000 </b> then add the name of the file(for example) <b> /checkValidSudoku </b>:
 
 ![checkvalid](https://user-images.githubusercontent.com/58296399/168141393-0cdf5adc-2f2e-4ef7-8891-d3226e5407d9.PNG)
+
+<b>Another example: </b>
+
+![true](https://user-images.githubusercontent.com/58296399/168142087-c03a25c5-db32-4953-b742-d3fc26257944.PNG)

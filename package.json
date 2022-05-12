@@ -1,0 +1,31 @@
+{
+  "name": "sudoku-validator",
+  "version": "1.0.0",
+  "description": "sudoku validator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sudoku",
+    "validator"
+  ],
+  "author": "Diella",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "csv-parse": "^5.0.4",
+    "express": "^4.17.1",
+    "fast-csv": "^4.3.6",
+    "formidable": "^1.2.6",
+    "fs": "^0.0.1-security",
+    "line-reader": "^0.4.0",
+    "multer": "^1.4.4",
+    "os": "^0.1.2",
+    "path": "^0.12.7"
+  }
+}
